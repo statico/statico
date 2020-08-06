@@ -9,3 +9,5 @@ Some recent and not-so-recent projects you might be interested in:
 - 🕹️ [langterm](https://github.com/statico/langterm) and [ifhttp](https://github.com/statico/ifhttp) - a WebGL/text-based interactive fiction game that powers [langworth.com](https://langworth.com) (JavaScript, WebGL, Node.js, Docker)
 
 Pronouns: he/him
+
+<img src="https://i.imgur.com/iDgIT5X.png" width="88" height="31" alt="Get Netscape 3.0 Now!" />
