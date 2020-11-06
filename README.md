@@ -2,7 +2,7 @@
 
 Some recent and not-so-recent projects you might be interested in:
 
-- 📦  [jsgrids](https://github.com/statico/jsgrids) - source of [jsgrids.io](https://jsgrids.io), A comparison tool to compare JavaScript data grid and spreadsheet libraries (TypeScript, React, Next.js, Netlify)
+- 📦  [jsgrids](https://github.com/statico/jsgrids) - source of [jsgrids](https://jsgrids.statico.io), A comparison tool to compare JavaScript data grid and spreadsheet libraries (TypeScript, React, Next.js, Netlify)
 
 - 💾  [dotfiles](https://github.com/statico/dotfiles) - my dotfiles, utils, Zsh/Vim/tmux configs, and portable toolbox with an installer (Shell)
 
