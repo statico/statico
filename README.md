@@ -8,4 +8,8 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🕹️  [langterm](https://github.com/statico/langterm), [glulxe-httpd](https://github.com/statico/glulxe-httpd), and [The Archive](https://github.com/statico/the-archive-public) - a WebGL/text-based interactive fiction game that powers [langworth.com](https://langworth.com) (TypeScript, JavaScript, WebGL, Node.js, Docker)
 
+Enjoy this cat:
+
+<img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200"/>
+
 Pronouns: he/him
