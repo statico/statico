@@ -10,7 +10,7 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🕹️  [langterm](https://github.com/statico/langterm), [glulxe-httpd](https://github.com/statico/glulxe-httpd), and [The Archive](https://github.com/statico/the-archive-public) - a WebGL/text-based interactive fiction game that powers [langworth.com](https://langworth.com) (TypeScript, JavaScript, WebGL, Node.js, Docker)
 
-- 🔗  [statico.link](https://statico.link), a custom URL shortener with a list of bookmarks I share often, powered by [a tiny Node.js server and config](https://github.com/statico/statico.link)
+- 🔗  [statico URL shortener](https://github.com/statico/statico.link), a custom URL shortener with a list of bookmarks I share often, which powers [statico.link](https://statico.link/)/[ianl.link](https://ianl.link)
 
 Enjoy this cat:
 
