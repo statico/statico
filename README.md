@@ -12,7 +12,7 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🔗  [statico URL shortener](https://github.com/statico/statico.link) - a custom URL shortener with a list of bookmarks I share often, which powers [statico.link](https://statico.link/)/[ianl.link](https://ianl.link)
 
-- 🎱  [magic8ball](https://github.com/statico/magic8ball) - I wanted to see if ChatGPT could teach me to build a simple app for iPhone and Apple Watch and it did.
+- 🎱  [magic8ball](https://github.com/statico/magic8ball) - I wanted to see if ChatGPT could teach me to build a simple app for iPhone and Apple Watch and it did.
 
 Less important or not-fully-baked fun stuff:
 
