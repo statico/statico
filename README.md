@@ -28,6 +28,6 @@ Less important or not-fully-baked fun stuff:
 
 Enjoy this cat:
 
-<img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200"/>
+<img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200" width="200"/>
 
 Pronouns: he/him
