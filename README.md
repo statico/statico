@@ -22,8 +22,6 @@ Less important or not-fully-baked fun stuff:
 
 - 📖 [aspen](https://github.com/statico/aspen) - a search engine for gigs of plaintext data built with React and ElasticSearch
 
-- 📂 [csvhacker](https://github.com/statico/csvhacker) - originally supposed to be [CyberChef](https://cyberchef.org/) for CSV files, this turned into an app that lets you drag a CSV on it and query it using SQL using SQLite compiled to WASM thanks mostly to [sql.js](https://www.npmjs.com/package/sql.js)
-
 - 🟧 [ycombinator1.com](https://github.com/statico/ycombinator1.com) - a proxy and Slack app to show social media previews for Hacker News links
 
 Enjoy this cat:
