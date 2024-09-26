@@ -14,8 +14,6 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🎱  [magic8ball](https://github.com/statico/magic8ball) - I wanted to see if ChatGPT could teach me to build a simple app for iPhone and Apple Watch and it did.
 
-Less important or not-fully-baked fun stuff:
-
 - 🌈 [cadubi](https://github.com/statico/cadubi) - a terminal-based color ASCII art editor I wrote in 1997 that is now somehow included in many package managers and software archives
 
 - 📈 [femtostats](https://github.com/statico/femtostats) - a self-hostable, privacy-focused web analytics platform and alternative to Google Analytics
