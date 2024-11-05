@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Home Page](https://langworth.com) - [Blog](https://statico.github.io) - [LinkedIn](https://www.linkedin.com/in/ianlangworth/) - [Twitter](https://twitter.com/statico)
+[Home Page](https://langworth.com) - [Blog](https://statico.github.io) - [LinkedIn](https://www.linkedin.com/in/ianlangworth/)
 
 Some recent and not-so-recent projects you might be interested in:
 
