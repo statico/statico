@@ -12,6 +12,8 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🔗  [statico URL shortener](https://github.com/statico/statico.link) - a custom URL shortener with a list of bookmarks I share often, which powers [statico.link](https://statico.link/)/[ianl.link](https://ianl.link)
 
+- 👽 [Imposter Attack](https://github.com/statico/imposter-attack-2024) - An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard
+
 - 🎱  [magic8ball](https://github.com/statico/magic8ball) - I wanted to see if ChatGPT could teach me to build a simple app for iPhone and Apple Watch and it did.
 
 - 🌈 [cadubi](https://github.com/statico/cadubi) - a terminal-based color ASCII art editor I wrote in 1997 that is now somehow included in many package managers and software archives
