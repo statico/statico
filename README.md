@@ -24,8 +24,9 @@ Some recent and not-so-recent projects you might be interested in:
 
 - 🟧 [ycombinator1.com](https://github.com/statico/ycombinator1.com) - a proxy and Slack app to show social media previews for Hacker News links
 
-Enjoy this cat:
-
-<img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200" width="200"/>
+> [!IMPORTANT]
+> Enjoy this cat:
+> 
+> <img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200" width="200"/>
 
 Pronouns: he/him
