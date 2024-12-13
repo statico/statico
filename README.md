@@ -28,5 +28,3 @@ Some recent and not-so-recent projects you might be interested in:
 > Enjoy this cat:
 > 
 > <img src="https://i.imgur.com/NygziEd.gif" alt="a happy cat getting pets" height="200" width="200"/>
-
-Pronouns: he/him
