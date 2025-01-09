@@ -2,7 +2,7 @@
 
 [Home Page](https://langworth.com) - [Blog](https://statico.github.io) - [LinkedIn](https://www.linkedin.com/in/ianlangworth/)
 
-Some recent and not-so-recent projects you might be interested in:
+A few of my open-source projects:
 
 - 💾  [dotfiles](https://github.com/statico/dotfiles) - my dotfiles, utils, Zsh/Vim/tmux/VS Code configs, and portable toolbox with an installer (Shell, ⭐️ 650+ stars!)
 
