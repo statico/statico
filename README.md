@@ -14,7 +14,7 @@ A few of my open-source projects:
 
 - 👽 [Imposter Attack](https://github.com/statico/imposter-attack-2024) - An Among Us-themed infrared shooting gallery game built with ESP32 devices and a Node.js scoreboard
 
-- 🎱  [magic8ball](https://github.com/statico/magic8ball) - I wanted to see if ChatGPT could teach me to build a simple app for iPhone and Apple Watch and it did.
+- 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
 
 - 🌈 [cadubi](https://github.com/statico/cadubi) - a terminal-based color ASCII art editor I wrote in 1997 that is now somehow included in many package managers and software archives
 
