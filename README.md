@@ -16,7 +16,7 @@ A few of my open-source projects:
 
 - ⚙️ [Ian's Stack (2025 Edition)](https://github.com/statico/ian-stack-2025) - Fullstack example app with TypeScript and Postgres used as a starting point
 
-- 🧙‍♂️ [Godot Roguelike Example)(https://github.com/statico/godot-roguelike-example) - Unfinished roguelike game made with Godot 4 with vision, inventory, BSP dungeon generation, behavior trees, and more
+- 🧙‍♂️ [Godot Roguelike Example](https://github.com/statico/godot-roguelike-example) - Unfinished roguelike game made with Godot 4 with vision, inventory, BSP dungeon generation, behavior trees, and more
 
 - 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
 
