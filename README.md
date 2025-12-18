@@ -28,6 +28,12 @@ A few of my open-source projects:
 
 - 🟧 [ycombinator1.com](https://github.com/statico/ycombinator1.com) - a proxy and Slack app to show social media previews for Hacker News links
 
+Vibe-coded funsies:
+
+- 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
+
+- ♟️ [Chess Puzzles macOS menubar item](https://github.com/statico/chess-puzzles-menuitem) - Solve chess puzzles directly from your macOS menu bar
+
 > [!IMPORTANT]
 > Enjoy this cat:
 > 
