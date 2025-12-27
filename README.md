@@ -18,14 +18,6 @@ A few of my open-source projects:
 
 - 🧙‍♂️ [Godot Roguelike Example](https://github.com/statico/godot-roguelike-example) - Unfinished roguelike game made with Godot 4 with vision, inventory, BSP dungeon generation, behavior trees, and more
 
-- 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
-
-- 🌈 [cadubi](https://github.com/statico/cadubi) - a terminal-based color ASCII art editor I wrote in 1997 that is now somehow included in many package managers and software archives
-
-- 📈 [femtostats](https://github.com/statico/femtostats) - a self-hostable, privacy-focused web analytics platform and alternative to Google Analytics
-
-- 📖 [aspen](https://github.com/statico/aspen) - a search engine for gigs of plaintext data built with React and ElasticSearch
-
 - 🟧 [ycombinator1.com](https://github.com/statico/ycombinator1.com) - a proxy and Slack app to show social media previews for Hacker News links
 
 Vibe-coded funsies:
@@ -33,6 +25,16 @@ Vibe-coded funsies:
 - 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
 
 - ♟️ [Chess Puzzles macOS menubar item](https://github.com/statico/chess-puzzles-menuitem) - Solve chess puzzles directly from your macOS menu bar
+
+- 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
+
+Older / archived:
+
+- 📈 [femtostats](https://github.com/statico/femtostats) - a self-hostable, privacy-focused web analytics platform and alternative to Google Analytics
+
+- 📖 [aspen](https://github.com/statico/aspen) - a search engine for gigs of plaintext data built with React and ElasticSearch
+
+- 🌈 [cadubi](https://github.com/statico/cadubi) - a terminal-based color ASCII art editor I wrote in 1997 that is now somehow included in many package managers and software archives
 
 > [!IMPORTANT]
 > Enjoy this cat:
