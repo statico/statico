@@ -24,6 +24,8 @@ Vibe-coded funsies:
 
 - 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
 
+- 🔍🤖 [quickrag](https://github.com/statico/quickrag) - A fast and flexible RAG tool for indexing and querying documents
+
 - ♟️ [Chess Puzzles macOS menubar item](https://github.com/statico/chess-puzzles-menuitem) - Solve chess puzzles directly from your macOS menu bar
 
 - 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
