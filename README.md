@@ -1,6 +1,14 @@
 ### Hi there 👋
 
-[Home Page](https://langworth.com) - [Blog](https://statico.github.io) - [LinkedIn](https://www.linkedin.com/in/ianlangworth/)
+I’m Ian. I build things and occasionally write about them.
+
+I live in the Bay Area, California. I used to work for [Google](https://www.google.com/), [Looker](https://www.firstround.com/companies/looker), and [other startups and companies](https://statico.link/linkedin). I've founded [a game studio](https://www.guardiansofatlas.org) and [the #1 pickleball website and app](https://www.pickleheads.com). I'm currently a Principal Engineer at [North Pole Security](https://northpole.security) working on macOS security products.
+
+You might also be interested in [my blog](https://blog.langworth.com), [my dotfiles](https://github.com/statico/dotfiles), [my link shortener](https://statico.link), or my nostalgia-laden text adventure game at [langworth.com](https://langworth.com). A long time ago, I also wrote [a book on Perl](https://statico.link/ptdn).
+
+You can follow me on [Bluesky](https://bsky.app/profile/statico.bsky.social), [Mastodon](https://mastodon.social/@statico), or [LinkedIn](https://www.linkedin.com/in/ianlangworth). You can subscribe to future posts via [RSS](/feed.xml) or [email](https://statico.substack.com/).
+
+---
 
 A few of my open-source projects:
 
