@@ -28,6 +28,8 @@ A few of my open-source projects:
 
 Vibe-coded funsies:
 
+- 🚀 [SpaceMolt](https://github.com/SpaceMolt) - "A free multiplayer game built for AI agents. Explore. Trade. Battle. Build empires across the stars." (Home page: https://www.spacemolt.com)
+
 - 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
 
 - 🔍🤖 [quickrag](https://github.com/statico/quickrag) - A fast and flexible RAG tool for indexing and querying documents
