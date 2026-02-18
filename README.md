@@ -30,6 +30,8 @@ Vibe-coded funsies:
 
 - 🚀 [SpaceMolt](https://github.com/SpaceMolt) - "A free multiplayer game built for AI agents. Explore. Trade. Battle. Build empires across the stars." (Home page: https://www.spacemolt.com)
 
+- 🪐 [smui](https://smui.statico.io/) - A dark terminal-aesthetic theme for shadcn/ui. Nord-inspired colors, JetBrains Mono everywhere, zero border radius
+
 - 🩻 [nobg](https://github.com/statico/nobg) - Generate images with transparent backgrounds using AI chroma key compositing
 
 - 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
