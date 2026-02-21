@@ -34,6 +34,8 @@ Vibe-coded funsies:
 
 - 🩻 [nobg](https://github.com/statico/nobg) - Generate images with transparent backgrounds using AI chroma key compositing
 
+- 🎞️ [guff](https://github.com/statico/guff) - Generate animated GIFs using AI — Claude writes code that programmatically creates SVG animation frames
+
 - 🌌 [meshtastic-cli](https://github.com/statico/meshtastic-cli) - Terminal UI for monitoring Meshtastic mesh networks - view packets, nodes, and chat in real-time
 
 - 🔍🤖 [quickrag](https://github.com/statico/quickrag) - A fast and flexible RAG tool for indexing and querying documents
