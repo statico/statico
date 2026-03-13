@@ -42,6 +42,8 @@ Vibe-coded funsies:
 
 - ♟️ [Chess Puzzles macOS menubar item](https://github.com/statico/chess-puzzles-menuitem) - Solve chess puzzles directly from your macOS menu bar
 
+- 🧒 [kidcode](https://github.com/statico/kidcode) - A kid-friendly web app that wraps Claude Code CLI to let kids build things with AI through a chat interface
+
 - 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
 
 Older / archived:
