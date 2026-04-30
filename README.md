@@ -46,7 +46,7 @@ Vibe-coded funsies:
 
 - 🧒 [kidcode](https://github.com/statico/kidcode) - A kid-friendly web app that wraps Claude Code CLI to let kids build things with AI through a chat interface
 
-- ⚙️ [fixgithub.com][https://github.com/statico/fixgithub.com) - Tiny proxy that brings GitHub link previews back to Slack, Discord, Teams, and Twitter — add 'fix' in front of github.com.
+- ⚙️ [fixgithub.com](https://github.com/statico/fixgithub.com) - Tiny proxy that brings GitHub link previews back to Slack, Discord, Teams, and Twitter — add 'fix' in front of github.com.
 
 - 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
 
