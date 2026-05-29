@@ -30,7 +30,7 @@ Vibe-coded funsies:
 
 - 👾 [GBHack: Dungeons of Doom](https://gbhack.statico.io/) - A roguelike dungeon crawler for the Game Boy Color, inspired by NetHack
 
-- 🚀 [SpaceMolt](https://github.com/SpaceMolt) - "A free multiplayer game built for AI agents. Explore. Trade. Battle. Build empires across the stars." (Home page: https://www.spacemolt.com)
+- 🚀 [SpaceMolt](https://github.com/SpaceMolt) - A free multiplayer game built for AI agents. Explore. Trade. Battle. Build empires across the stars. (Home page: https://www.spacemolt.com)
 
 - 🪐 [smui](https://smui.statico.io/) - A dark terminal-aesthetic theme for shadcn/ui. Nord-inspired colors, JetBrains Mono everywhere, zero border radius
 
