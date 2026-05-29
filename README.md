@@ -12,7 +12,7 @@ A few of my open-source projects:
 
 - 💾  [dotfiles](https://github.com/statico/dotfiles) - my dotfiles, utils, Zsh/Vim/tmux/VS Code configs, and portable toolbox with an installer (Shell, ⭐️ 650+ stars!)
 
-- 📊✨  [awesome-javascript-grids](https://github.com/statico/awesome-javascript-grids) - source of [jsgrids.statico.io](https://jsgrids.statico.io), A curated list of the best JavaScript data grid & spreadsheet libraries
+- 🧇  [awesome-javascript-grids](https://github.com/statico/awesome-javascript-grids) - source of [jsgrids.statico.io](https://jsgrids.statico.io), a curated list of awesome JavaScript data grid and spreadsheet libraries
 
 - 🕹️  [langterm](https://github.com/statico/langterm), [glulxe-httpd](https://github.com/statico/glulxe-httpd), and [The Archive](https://github.com/statico/the-archive-public) - a WebGL/text-based interactive fiction game that powers [langworth.com](https://langworth.com) (TypeScript, JavaScript, WebGL, Node.js, Docker)
 
