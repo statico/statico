@@ -48,6 +48,8 @@ Vibe-coded funsies:
 
 - 🧑‍💻 [llmscript](https://github.com/statico/llmscript) - Write your shell scripts in natural language by using an LLM to write and test them for you
 
+- 🍎 [llmac](https://github.com/statico/llmac) - Apple's on-device Foundation Models from the command line — tiny, fast, no API key, in the spirit of Simon Willison's llm
+
 Older / archived:
 
 - 📈 [femtostats](https://github.com/statico/femtostats) - a self-hostable, privacy-focused web analytics platform and alternative to Google Analytics
