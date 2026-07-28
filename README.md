@@ -28,6 +28,8 @@ A few of my open-source projects:
 
 Vibe-coded funsies:
 
+- ✨ [cool-web-fx](https://github.com/statico/cool-web-fx) - A gallery of cool web interaction effects, each recreated as a single copy-pasteable HTML/CSS/JS file (Home page: https://fx.statico.io)
+
 - 👾 [GBHack: Dungeons of Doom](https://gbhack.statico.io/) - A roguelike dungeon crawler for the Game Boy Color, inspired by NetHack
 
 - 🚀 [SpaceMolt](https://github.com/SpaceMolt) - A free multiplayer game built for AI agents. Explore. Trade. Battle. Build empires across the stars. (Home page: https://www.spacemolt.com)
