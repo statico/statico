@@ -28,6 +28,8 @@ A few of my open-source projects:
 
 Vibe-coded funsies:
 
+- 🧙 [NetHack Tiles Client](https://github.com/statico/nethack-tiles-client) - Play NetHack on the public servers with graphical tiles - a desktop client for macOS, Windows, and Linux
+
 - ✨ [cool-web-fx](https://github.com/statico/cool-web-fx) - A gallery of cool web interaction effects, each recreated as a single copy-pasteable HTML/CSS/JS file (Home page: https://fx.statico.io)
 
 - 👾 [GBHack: Dungeons of Doom](https://gbhack.statico.io/) - A roguelike dungeon crawler for the Game Boy Color, inspired by NetHack
