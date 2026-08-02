@@ -6,8 +6,6 @@ You might also be interested in [my blog](https://blog.langworth.com), [my dotfi
 
 You can follow me on [Bluesky](https://bsky.app/profile/statico.bsky.social), [Mastodon](https://mastodon.social/@statico), or [LinkedIn](https://www.linkedin.com/in/ianlangworth). You can subscribe to future posts via [RSS](/feed.xml) or [email](https://statico.substack.com/).
 
----
-
 ### Open-source project samples
 
 - 💾  [dotfiles](https://github.com/statico/dotfiles) - my dotfiles, utils, Zsh/Vim/tmux/VS Code configs, and portable toolbox with an installer (Shell, ⭐️ 650+ stars!)
