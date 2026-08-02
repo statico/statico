@@ -30,6 +30,8 @@ Vibe-coded funsies:
 
 - 🧙 [NetHack Tiles Client](https://github.com/statico/nethack-tiles-client) - Play NetHack on the public servers with graphical tiles - a desktop client for macOS, Windows, and Linux
 
+- 🎲 [NetHack Tools](https://github.com/statico/nethack-tools) - Price ID calculator, Sokoban helper, and ascension checklist for NetHack 3.6, 3.7 and 5.0, generated from the game source (Home page: https://nethack.statico.io)
+
 - ✨ [cool-web-fx](https://github.com/statico/cool-web-fx) - A gallery of cool web interaction effects, each recreated as a single copy-pasteable HTML/CSS/JS file (Home page: https://fx.statico.io)
 
 - 👾 [GBHack: Dungeons of Doom](https://gbhack.statico.io/) - A roguelike dungeon crawler for the Game Boy Color, inspired by NetHack
