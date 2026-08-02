@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I’m Ian. I live in the Bay Area, California. I used to work for [Google](https://www.google.com/), [Looker](https://www.firstround.com/companies/looker), and [other startups and companies](https://statico.link/linkedin). I've founded [a game studio](https://www.guardiansofatlas.org) and [the #1 pickleball website and app](https://www.pickleheads.com). I'm currently a Principal Engineer at [North Pole Security](https://northpole.security) working on macOS security products.
 
@@ -8,7 +8,7 @@ You can follow me on [Bluesky](https://bsky.app/profile/statico.bsky.social), [M
 
 ---
 
-A few of my open-source projects:
+### Open-source project samples
 
 - 💾  [dotfiles](https://github.com/statico/dotfiles) - my dotfiles, utils, Zsh/Vim/tmux/VS Code configs, and portable toolbox with an installer (Shell, ⭐️ 650+ stars!)
 
@@ -26,7 +26,7 @@ A few of my open-source projects:
 
 - 🟧 [ycombinator1.com](https://github.com/statico/ycombinator1.com) - a proxy and Slack app to show social media previews for Hacker News links
 
-Vibe-coded funsies:
+### Vibe-coded funsies
 
 - 🧙 [NetHack Tiles Client](https://github.com/statico/nethack-tiles-client) - Play NetHack on the public servers with graphical tiles - a desktop client for macOS, Windows, and Linux
 
@@ -56,7 +56,7 @@ Vibe-coded funsies:
 
 - 🍎 [llmac](https://github.com/statico/llmac) - Apple's on-device Foundation Models from the command line — tiny, fast, no API key, in the spirit of Simon Willison's llm
 
-Older / archived:
+### Older, archived, but interesting
 
 - 📈 [femtostats](https://github.com/statico/femtostats) - a self-hostable, privacy-focused web analytics platform and alternative to Google Analytics
 
